@@ -27,7 +27,7 @@ const FAQs = () => {
             2. How can I find the nearest e-waste collection center?
           </AccordionTrigger>
           <AccordionContent>
-            Navigate to our "E-Waste Locator" page, where you can use your
+            Navigate to our E-Waste Locator page, where you can use your
             location or input a specific address to find the closest e-waste
             collection and recycling facilities on the interactive map.
           </AccordionContent>
@@ -82,7 +82,7 @@ const FAQs = () => {
           </AccordionTrigger>
           <AccordionContent>
             Yes, we take the privacy and security of your information seriously.
-            Please refer to our "Privacy Policy" for detailed information on how
+            Please refer to our Privacy Policy for detailed information on how
             we handle user data and maintain confidentiality.
           </AccordionContent>
         </AccordionItem>
@@ -92,7 +92,7 @@ const FAQs = () => {
           </AccordionTrigger>
           <AccordionContent>
             If you encounter any issues or have feedback, please visit our
-            "Contact Us" page. You can use the provided form to submit your
+            Contact Us page. You can use the provided form to submit your
             concerns, and our team will address them promptly.
           </AccordionContent>
         </AccordionItem>
@@ -114,7 +114,7 @@ const FAQs = () => {
           </AccordionTrigger>
           <AccordionContent>
             Each collection center may have specific guidelines regarding the
-            types of e-waste they accept. It's recommended to check with the
+            types of e-waste they accept. Its recommended to check with the
             respective center or refer to our locator page for detailed
             information.
           </AccordionContent>

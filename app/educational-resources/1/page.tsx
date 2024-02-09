@@ -44,7 +44,7 @@ const BlogPost1 = () => {
           To address these challenges, the process of e-waste recycling plays a
           crucial role. E-waste recycling involves the collection, dismantling,
           and processing of electronic devices to recover valuable materials and
-          minimize environmental impact. Let's delve deeper into the intricate
+          minimize environmental impact. Lets delve deeper into the intricate
           journey of e-waste from your hands to the recycling facility.
         </p>
         <h2 className="text-2xl font-bold mb-2">1. Collection</h2>

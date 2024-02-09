@@ -18,7 +18,7 @@ const BlogPost5 = () => {
         <p className="text-gray-700 mb-4">
           As individuals, we all have a role to play in reducing electronic
           waste, or e-waste, and creating a more sustainable electronic
-          ecosystem. In this blog post, we'll explore practical tips for
+          ecosystem. In this blog post, well explore practical tips for
           minimizing e-waste and empowering change at the individual level. From
           responsible disposal to extending the lifespan of devices, learn how
           small actions can make a big difference in reducing e-waste and
@@ -40,7 +40,7 @@ const BlogPost5 = () => {
         <p className="text-gray-700 mb-4">
           Another effective way to reduce e-waste is to extend the lifespan of
           electronic devices. Instead of upgrading to the latest model as soon
-          as it's released, consider using your current device for as long as
+          as its released, consider using your current device for as long as
           possible and exploring options for repair and maintenance. By
           investing in quality products and taking care of them properly, you
           can prolong their lifespan and reduce the frequency of replacements,

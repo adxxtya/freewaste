@@ -20,7 +20,7 @@ const BlogPost4 = () => {
           continue to rise, so too does the volume of electronic waste, or
           e-waste. While the environmental impact of e-waste has been widely
           discussed, less attention has been paid to its potential health risks.
-          In this blog post, we'll examine the various health hazards associated
+          In this blog post, well examine the various health hazards associated
           with exposure to e-waste and discuss the impact on both communities
           living near e-waste disposal sites and workers involved in the
           recycling process.
@@ -48,7 +48,7 @@ const BlogPost4 = () => {
           risk of acute and chronic health conditions, including skin
           irritations, respiratory problems, and reproductive disorders. In
           addition, informal recycling practices in many developing countries
-          lack proper safety measures, further increasing the risk to workers'
+          lack proper safety measures, further increasing the risk to workers
           health.
         </p>
         <h2 className="text-2xl font-bold mb-2">3. Long-Term Health Impacts</h2>
